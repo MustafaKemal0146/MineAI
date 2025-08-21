@@ -1,0 +1,6 @@
+com\mcmod\ai\GoogleAIClient.class
+com\mcmod\ai\AiCommand.class
+com\mcmod\ai\AiHelpCommand.class
+com\mcmod\ai\MCAIPlugin.class
+com\mcmod\ai\ModelCommand.class
+com\mcmod\ai\ApiCommand.class
