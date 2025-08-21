@@ -16,7 +16,7 @@ MineAI, Minecraft PaperMC 1.21.8 sunucuları için geliştirilmiş, Google AI St
 ```
 Oyun içi yardım ve komut listesini gösterir.
 
-![/aihelp](github/images/aihelp.png)
+![/aihelp](/images/aihelp.png)
 
 ---
 
@@ -26,7 +26,7 @@ Oyun içi yardım ve komut listesini gösterir.
 ```
 Google AI Studio'dan ücretsiz API anahtarı alıp buraya girin. Bağlantı testi otomatik yapılır.
 
-![/api](github/images/api.png)
+![/api](/images/api.png)
 
 ---
 
@@ -37,7 +37,7 @@ Google AI Studio'dan ücretsiz API anahtarı alıp buraya girin. Bağlantı test
 ```
 Kullanılabilir Gemini modellerini listeler veya seçer.
 
-![/model](github/images/model.png)
+![/model](/images/model.png)
 
 ---
 
@@ -47,7 +47,7 @@ Kullanılabilir Gemini modellerini listeler veya seçer.
 ```
 Yapay zeka ile sohbet başlatır. Yanıtlar arasında ayırıcı çizgi bulunur.
 
-![/ai yanıtı](github/images/aiyanıt.png)
+![/ai yanıtı](/images/aiyanıt.png)
 
 ---
 
