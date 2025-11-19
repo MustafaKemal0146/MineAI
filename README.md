@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="/images/logo.png" alt="MineAI Logo" width="200" />
